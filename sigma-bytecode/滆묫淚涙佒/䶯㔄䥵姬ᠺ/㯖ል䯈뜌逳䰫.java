@@ -1,0 +1,5 @@
+public interface \u6ec6\ubb2b\uf94d\u6d99\u4f52.\u4daf\u3504\u4975\u59ec\u183a.\u3bd6\u120d\u4bc8\ub70c\u9033\u4c2b {
+    javax.sound.sampled.AudioFormat \u4492\u2dcc\u4c04\u92ff\uf94d\u6198();
+    
+    java.nio.ByteBuffer \u494c\u3a62\u9033\u47c2\u3504\uc87f(int p0);
+}

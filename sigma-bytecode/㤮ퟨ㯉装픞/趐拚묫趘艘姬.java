@@ -1,0 +1,3 @@
+public interface \u392e\ud7e8\u3bc9\u88c5\ud51e.\u8d90\u62da\ubb2b\u8d98\u8258\u59ec {
+    java.lang.reflect.Field \u4975\ubf56\u3504\u4c04\uae87\u8389();
+}

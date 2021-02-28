@@ -1,0 +1,3 @@
+public interface \u3d64\u7af6\uae87\uc238\u7d52.\u965f\ubefe\u4179\u8389\ubf56\uafe7 {
+    com.google.gson.JsonElement \u7049\u6fb0\u647c\u5654\u59ec\uc84e();
+}

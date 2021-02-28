@@ -1,0 +1,3 @@
+public interface \u51fa\u12cb\u7330\u74b1\u6c52.\u76bc\u4975\ua6bd\u4daf\u8d98.\u7330\u760c\ua3b4\u7c6b\uc9f6 {
+    void \u6ec6\u9033\u873d\u8413\u446c(byte[] p0, int p1, int p2);
+}

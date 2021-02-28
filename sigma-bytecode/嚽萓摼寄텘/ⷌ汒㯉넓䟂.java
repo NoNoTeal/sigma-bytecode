@@ -1,0 +1,3 @@
+public interface \u56bd\u8413\u647c\u5bc4\ud158.\u2dcc\u6c52\u3bc9\ub113\u47c2 {
+    java.util.Collection<com.mojang.authlib.GameProfile> \u61a4\u5245\u4ab3\u40a9\u8709\u759a(\u7c6b\u7c6b\ubefe\u385b\u3c25.\u8413\u5140\u64f2\uc9f6\u9937 p0);
+}

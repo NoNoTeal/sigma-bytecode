@@ -1,0 +1,5 @@
+public interface \ud36e\u6bb9\u960f\u4c04\u64ab.\u9af2\u7873\u59ec\uceb8\ub6ab\u927d {
+    void \u5bc4\uafe7\ua068\ub1b9\u7ce1\u3504(short p0);
+    
+    void \u0b8e\ub18d\uc246\uc2e8\u7bad\u156b(java.lang.String p0);
+}

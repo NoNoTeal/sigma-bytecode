@@ -1,0 +1,3 @@
+public interface \u8cae\u8bb0\ucef1\u8c8a\u3a62.\ub6ab\u516c\ub70c\u76bc\u74b1\u416d {
+    void \u56bd\u965f\uc84e\u7330\u927d\ubded(java.lang.String p0);
+}

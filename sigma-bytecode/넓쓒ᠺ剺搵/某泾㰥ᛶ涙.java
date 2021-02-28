@@ -1,0 +1,13 @@
+public interface \ub113\uc4d2\u183a\u527a\u6435.\u67d0\u6cfe\u3c25\u16f6\u6d99 {
+    int \ubb2b\u40a9\u527a\u960f\ubcb0\u72f1(byte[] p0, int p1, int p2);
+    
+    boolean \u2dcc\uceb8\ubff1\u2dcc\u6b0d\uf995();
+    
+    boolean \u4bc8\uc4d2\u97e6\ud51e\ub102\ud158();
+    
+    long \u4c04\u9af2\u7049\uafe7\u8258\u67e9();
+    
+    long \ub18d\u4ab3\u8350\u8753\u12cb\u8709();
+    
+    long \u494c\u3e75\ub6ab\u600f\u3bc9\ub1b9(long p0);
+}

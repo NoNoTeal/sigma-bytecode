@@ -1,0 +1,3 @@
+public interface \u516c\u3d64\u718f\ub171\u6b5f.\u759a\ube23\u8c8a\ub6ab\u3776\u6b5f<T> {
+    int \u9255\u983f\u3a62\u52d3\u8c8a\ucb79(int p0, T p1);
+}

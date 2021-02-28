@@ -1,0 +1,7 @@
+public interface \u927d\u92ff\u71ae\uafe7\u6bb9.\u98a4\u8c8a\u965f\u5140\u5bc4 {
+    int \ufe34\u1833\u7c6b\uc2e8\ufe34();
+    
+    void \uc238\uceb8\u71f1\ud7e8\u4e72(int p0);
+    
+    boolean \u6bb9\u6c56\ubb2b\ud217\u6bb9();
+}

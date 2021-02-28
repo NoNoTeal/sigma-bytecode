@@ -1,0 +1,3 @@
+public interface \u51b2\u6fb0\ufcaf\u61a4\u0800.\u3bc9\u47c2\u74b1\u5bc4\u7006 {
+    void \uc246\ucef1\u6c56\uc31c\ube23\ucb79(java.lang.Object[] p0);
+}

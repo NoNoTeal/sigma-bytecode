@@ -1,0 +1,5 @@
+public interface \u3bc9\u67e9\uc87f\u47c2\u5f50.\u59ec\uceb8\u4daf\u4cd9\u8c8a\u1833 {
+    java.util.List \u4c2b\u72f1\uc2e8\u647c\uf995\uae5d();
+    
+    void \ud171\u9af2\ufe34\ud523\uc87f\u67d0(java.util.List p0);
+}

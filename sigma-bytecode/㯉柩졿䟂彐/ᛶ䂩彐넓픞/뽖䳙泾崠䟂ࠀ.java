@@ -1,0 +1,3 @@
+public interface \u3bc9\u67e9\uc87f\u47c2\u5f50.\u16f6\u40a9\u5f50\ub113\ud51e.\ubf56\u4cd9\u6cfe\u5d20\u47c2\u0800<T> {
+    java.util.List<T> \u8bb0\u8413\u62da\ube23\u4975\ud217(java.lang.String p0);
+}

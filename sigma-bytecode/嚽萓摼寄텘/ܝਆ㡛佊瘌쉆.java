@@ -1,0 +1,3 @@
+public interface \u56bd\u8413\u647c\u5bc4\ud158.\u071d\u0a06\u385b\u4f4a\u760c\uc246<T> {
+    java.lang.String \u4f52\u59ec\u71ae\ufe34\uae87\ud171(T p0);
+}

@@ -1,0 +1,5 @@
+public interface \u4492\u8aa5\ud171\uc3e3\u4c2b.\u4c04\ua068\u3d64\ua6bd\u8389.\u960f\ubefe\ud4fe\u7c6b\u5db4.\u494c\ubff1\u99f7\u7043\ufcaf\ub8be {
+    java.lang.String \u4daf\u759a\u8640\u8bb0\u9a18\u4492(java.lang.String p0);
+    
+    java.lang.Appendable \u4daf\u759a\u8640\u8bb0\u9a18\u4492(java.lang.Appendable p0);
+}

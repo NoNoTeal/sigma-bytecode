@@ -1,0 +1,11 @@
+public interface \u47c2\u2dcc\u12cb\ud171\u8c8a.\uafe7\u47c2\uff55\ub19c\uc9f6\u61a4 {
+    boolean \ub102\ubcb0\u99f7\ubb2b\u4c2b\u6b0d();
+    
+    void \ub18d\u7049\u99f7\u6bb9\uf94d\ub32d();
+    
+    boolean \uc229\u3bd6\u97b7\ud171\ucb79\uf9c5();
+    
+    int \u5140\ubf56\u3bd6\u8bb0\ud4fe\u64ab(java.nio.ByteBuffer p0);
+    
+    boolean \ucb79\u62da\u7049\u385b\u67d0\ud12e();
+}

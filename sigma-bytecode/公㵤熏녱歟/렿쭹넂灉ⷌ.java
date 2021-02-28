@@ -1,0 +1,2 @@
+public @interface \u516c\u3d64\u718f\ub171\u6b5f.\ub83f\ucb79\ub102\u7049\u2dcc {
+}

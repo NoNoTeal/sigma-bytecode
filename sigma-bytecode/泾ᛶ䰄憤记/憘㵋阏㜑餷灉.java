@@ -1,0 +1,3 @@
+public interface \u6cfe\u16f6\u4c04\u61a4\u8bb0.\u6198\u3d4b\u960f\u3711\u9937\u7049<T> {
+    void \u4d85\ub171\u7049\u983f\u36d3\uc910(T p0, int p1);
+}

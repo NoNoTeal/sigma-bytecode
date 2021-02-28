@@ -1,0 +1,2 @@
+public interface \u36d3\u9033\u6b0d\u983f\u8d90.\u3bd6\u4179\u3a62\u8d90\u071d\u183a<V> {
+}

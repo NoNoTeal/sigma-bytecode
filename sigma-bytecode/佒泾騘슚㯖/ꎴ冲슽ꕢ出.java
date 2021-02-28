@@ -1,0 +1,3 @@
+public interface \u4f52\u6cfe\u9a18\uc29a\u3bd6.\ua3b4\u51b2\uc2bd\ua562\u51fa {
+    boolean \u7043\u67d0\u446c\u965f\u51b2\u6ec6(com.mojang.brigadier.context.CommandContext<\u7c6b\u7c6b\ubefe\u385b\u3c25.\u8413\u5140\u64f2\uc9f6\u9937> p0);
+}

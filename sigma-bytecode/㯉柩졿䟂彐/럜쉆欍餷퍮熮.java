@@ -1,0 +1,13 @@
+public interface \u3bc9\u67e9\uc87f\u47c2\u5f50.\ub7dc\uc246\u6b0d\u9937\ud36e\u71ae {
+    void \uff55\u74b1\u156b\u718f\u6c52\u965f();
+    
+    void \uc84e\u392e\u8c8a\u392e\uff55\ubff1();
+    
+    int \ubcb0\ub83f\u5d20\u16f6\uff55\ubded();
+    
+    java.lang.String \u62da\ucb79\u6435\u839e\u4f4a\u3bc9();
+    
+    java.lang.String \u1187\u88c5\uf995\u4d85\u2dcc\u51fa();
+    
+    com.google.gson.JsonObject \ua61f\u98a4\u4daf\ua068\u7330\uc4d2();
+}

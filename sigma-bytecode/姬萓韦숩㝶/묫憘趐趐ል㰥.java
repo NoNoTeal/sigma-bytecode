@@ -1,0 +1,13 @@
+public interface \u59ec\u8413\u97e6\uc229\u3776.\ubb2b\u6198\u8d90\u8d90\u120d\u3c25 {
+    int \u446c\u8bb0\u3776\u446c\u385b\u8308(java.lang.String p0);
+    
+    int \ud523\u64f2\u52d3\u97b7\ub113\u7873(java.lang.String p0);
+    
+    int \u1833\u98a4\ud158\u8413\u3e2a\uc4d2();
+    
+    void \u9a18\u5140\u3bd6\ube23\u5d20\ubf56(float p0, float p1, java.lang.String p2);
+    
+    void \u9a18\u5140\u3bd6\ube23\u5d20\ubf56(float p0, float p1, java.lang.String p2, \u51fa\u12cb\u7330\u74b1\u6c52.\u76bc\u4975\ua6bd\u4daf\u8d98.\u9a18\u5d20\uc2bd\u93a2\uc2e8\u7330 p3);
+    
+    void \u9a18\u5140\u3bd6\ube23\u5d20\ubf56(float p0, float p1, java.lang.String p2, \u51fa\u12cb\u7330\u74b1\u6c52.\u76bc\u4975\ua6bd\u4daf\u8d98.\u9a18\u5d20\uc2bd\u93a2\uc2e8\u7330 p3, int p4, int p5);
+}

@@ -1,0 +1,3 @@
+public interface \u6ec6\ubb2b\uf94d\u6d99\u4f52.\u7d52\uc229\ub113\u385b\u760c\ubded<E> {
+    void \u516c\ub113\u0b8e\u74b1\u7330\u92ee(java.util.List<E> p0);
+}

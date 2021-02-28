@@ -1,0 +1,3 @@
+public interface \u51fa\u12cb\u7330\u74b1\u6c52.\u5245\u16f6\u6b5f\u8aa5\u3504\u965f<T> {
+    T \u9033\u7c6b\u647c\ufcaf\ubcb0\u98a4(java.lang.Object p0);
+}

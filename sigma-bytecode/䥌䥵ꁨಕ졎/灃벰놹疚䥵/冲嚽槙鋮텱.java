@@ -1,0 +1,3 @@
+public interface \u494c\u4975\ua068\u0c95\uc84e.\u7043\ubcb0\ub1b9\u759a\u4975.\u51b2\u56bd\u69d9\u92ee\ud171 {
+    net.minecraft.util.text.ITextComponent \u8258\u4e72\u40a9\u93a2\u3a62\ud36e();
+}

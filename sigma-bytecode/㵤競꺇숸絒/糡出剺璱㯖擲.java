@@ -1,0 +1,3 @@
+public interface \u3d64\u7af6\uae87\uc238\u7d52.\u7ce1\u51fa\u527a\u74b1\u3bd6\u64f2 {
+    void \u8709\u527a\u97e6\uc229\u4d85\u62da(float p0, float p1);
+}

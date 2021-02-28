@@ -1,0 +1,3 @@
+public interface \u3504\ufe34\u600f\u6b0d\u69d9.\u8389\u494c\u527a\u8753\ub1b9\u8640<T> {
+    T \u4d85\uff55\uc3e3\ud4fe\u9937\uc229(io.netty.buffer.ByteBuf p0);
+}
